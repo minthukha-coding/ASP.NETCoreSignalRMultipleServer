@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.NETCoreSignalRMultipleServer\\ASP.NETCoreSignalRMultipleServer\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\ASP.NETCoreSignalRMultipleServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|d:\\asp.netcoresignalrmultipleserver\\signalrserver_2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|solutionrelative:signalrserver_2\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E443DC62-8A6A-4E01-AC28-51DF62B632BE}|SignalRServer_1\\SignalRServer_1.csproj|d:\\asp.netcoresignalrmultipleserver\\signalrserver_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E443DC62-8A6A-4E01-AC28-51DF62B632BE}|SignalRServer_1\\SignalRServer_1.csproj|solutionrelative:signalrserver_1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E443DC62-8A6A-4E01-AC28-51DF62B632BE}|SignalRServer_1\\SignalRServer_1.csproj|d:\\asp.netcoresignalrmultipleserver\\signalrserver_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E443DC62-8A6A-4E01-AC28-51DF62B632BE}|SignalRServer_1\\SignalRServer_1.csproj|solutionrelative:signalrserver_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E443DC62-8A6A-4E01-AC28-51DF62B632BE}|SignalRServer_1\\SignalRServer_1.csproj|d:\\asp.netcoresignalrmultipleserver\\signalrserver_1\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E443DC62-8A6A-4E01-AC28-51DF62B632BE}|SignalRServer_1\\SignalRServer_1.csproj|solutionrelative:signalrserver_1\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|d:\\asp.netcoresignalrmultipleserver\\signalrserver_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|solutionrelative:signalrserver_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|d:\\asp.netcoresignalrmultipleserver\\signalrserver_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|solutionrelative:signalrserver_2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|d:\\asp.netcoresignalrmultipleserver\\signalrserver_2\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3927CA40-C41E-4132-B69F-596AAD8ED072}|SignalRServer_2\\SignalRServer_2.csproj|solutionrelative:signalrserver_2\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,6 +67,97 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRServer_1\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "SignalRServer_1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T15:08:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_1\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRServer_1\\appsettings.json",
+              "ToolTip": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_1\\appsettings.json",
+              "RelativeToolTip": "SignalRServer_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T15:08:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "chat.js",
+              "DocumentMoniker": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_1\\wwwroot\\js\\chat.js",
+              "RelativeDocumentMoniker": "SignalRServer_1\\wwwroot\\js\\chat.js",
+              "ToolTip": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_1\\wwwroot\\js\\chat.js",
+              "RelativeToolTip": "SignalRServer_1\\wwwroot\\js\\chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-05T15:08:24.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRServer_2\\Program.cs",
+              "ToolTip": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\Program.cs",
+              "RelativeToolTip": "SignalRServer_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:08:16.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRServer_2\\appsettings.json",
+              "ToolTip": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\appsettings.json",
+              "RelativeToolTip": "SignalRServer_2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T15:08:15.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "SignalRServer_2\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "SignalRServer_2\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T15:08:02.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalRServer_2\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\ASP.NETCoreSignalRMultipleServer\\SignalRServer_2\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "SignalRServer_2\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:45:53.596Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -52,10 +172,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",

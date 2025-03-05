@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SignalRMultipleServerTestingConsole;
+
+Console.WriteLine("Starting SignarlR service");
+Console.ReadKey();
+
+SignalRService service = new SignalRService();
+await service.PushNotification();
+
+Console.ReadKey();
